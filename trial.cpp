@@ -6,5 +6,6 @@ int main()
     int a=9,b=23;
     int c=a+b;
     cout<<c;
+    cout<<"change kar diya";
     return 0;
 }
